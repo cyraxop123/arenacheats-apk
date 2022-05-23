@@ -1,8 +1,18 @@
 [
     {
-        "1": "100RS",
-        "2": "500RS",
-        "3": "1000RS",
-        "4": "1400RS"
+        "title": "1 DAY KEY",
+        "price": "100RS"
+    },
+    {
+        "title": "7 DAY KEY",
+        "price": "500RS"
+    },
+    {
+        "title": "1 DAY KEY",
+        "price": "1000RS"
+    },
+    {
+        "title": "30 DAY KEY",
+        "price": "1400RS"
     }
 ]
