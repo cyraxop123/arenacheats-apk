@@ -9,10 +9,18 @@
     },
     {
         "title": "15 DAY KEY",
-        "price": "1000RS"
+        "price": "800RS"
     },
     {
         "title": "30 DAY KEY",
         "price": "1400RS"
+    },
+    {
+        "title": "15 DAY(PRE-BOOK)",
+        "price": "600RS"
+    },
+    {
+        "title": "30 DAY(PRE-BOOK)",
+        "price": "1100RS"
     }
 ]
